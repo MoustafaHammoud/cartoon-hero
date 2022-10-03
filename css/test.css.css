@@ -1,9 +1,6 @@
-bode{
-
-color: lightgoldenrodyellow;
+body{
+color: yellow;
 }
-
-<style type="text/css">
 h1{
 	font-size: 30px;
 	color: salmon;
@@ -18,4 +15,4 @@ h2{
 .uppercase{
 	text-transform: uppercase;
 }
-</style>
+
